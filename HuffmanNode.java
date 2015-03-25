@@ -32,7 +32,6 @@ public class HuffmanNode implements Comparator<HuffmanNode>
         this.encoding = "";
     }
     
-    // used to build array list
     public HuffmanNode(Character inChar)
     {
         this.inChar = inChar;
