@@ -9,3 +9,5 @@ The reason it outputs character and not bit encodings is to conform with
 requirements for the assignment.
 
 I would also like to write a decompressor at some point in the future.
+
+Note: The output file does not seem to be committing correctly to git because it is a single, long line of text ("0"s and "1"s)
